@@ -37,7 +37,7 @@ An automation testing framework for web application using Cypress
 ### Installation
 1. Clone the repo
 ```
-git clone https://github.com/wizeline/Cypress-Framework.git
+git clone https://github.com/autolab59/cypress-js-main
 ```
 2. Install NPM packages
 ```
